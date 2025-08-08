@@ -35,7 +35,7 @@ Add to _build.gradle_:
 
 `compile 'com.github.barteksc:android-pdf-viewer:2.8.2'`
 
-Library is available in jcenter repository, probably it'll be in Maven Central soon.
+Library is available in Maven Central repository.
 
 ## Include PDFView in your layout
 
