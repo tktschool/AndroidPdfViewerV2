@@ -33,7 +33,7 @@ currently `OnPageErrorListener` set with `Configurator#onPageError()` is called.
 
 Add to _build.gradle_:
 
-`compile 'com.github.barteksc:android-pdf-viewer:2.8.2'`
+`implementation 'com.github.barteksc:android-pdf-viewer:2.8.2'`
 
 Library is available in Maven Central repository.
 
